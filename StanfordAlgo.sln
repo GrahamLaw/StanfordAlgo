@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StanfordAlgo", "StanfordAlgo\StanfordAlgo.csproj", "{D1D591F0-777B-4EB7-923A-3A80A8FE4CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{DC31563C-CACB-4517-A80A-E108A9D4306A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{D1D591F0-777B-4EB7-923A-3A80A8FE4CF8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D1D591F0-777B-4EB7-923A-3A80A8FE4CF8}.Release|x86.ActiveCfg = Release|Any CPU
 		{D1D591F0-777B-4EB7-923A-3A80A8FE4CF8}.Release|x86.Build.0 = Release|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Debug|x86.Build.0 = Debug|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Release|x86.ActiveCfg = Release|Any CPU
-		{DC31563C-CACB-4517-A80A-E108A9D4306A}.Release|x86.Build.0 = Release|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Debug|x86.Build.0 = Debug|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Release|x86.ActiveCfg = Release|Any CPU
+		{99998B19-7DCC-41CD-9373-ECBEBEF2CFC2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
